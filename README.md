@@ -1,16 +1,24 @@
-## Hi there 👋
+## **Developer | Multi-Stack Explorer | Building Random Things**
 
-<!--
-**G51DHU/G51DHU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code stuff that interests me. Sometimes it's data scrapers, sometimes it's web apps, sometimes it's making LEDs blink. Not everything needs to be production-ready to be worth building.
 
-Here are some ideas to get you started:
+### 🛠️ **My Tech Stack Arsenal**
+`Python` `JavaScript` `PowerShell` `FastAPI` `React/Preact` `HTML` `CSS` `Hardware APIs`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 **Projects & Experiments**
+
+| Main Projects | Description |
+|---------|-------------|
+| **LSE Data Analytics Scraper** | Analyzed GitHub repos from LSE students |
+| **HCUC Timetable** | Full-stack scheduling app with separate frontend/backend |
+| **Copyright Protection Tool** | Utility for content protection |
+| **Nano React App** | Minimal React/Preact app templates for quick prototyping |
+| **Respeaker LED Controller** | Mycroft skill for hardware control |
+| **AllPing** | Network monitoring bot |
+| **Titanic Fitness** | Full-stack fitness tracking application |
+
+### 💡 **Philosophy**
+I build things to learn, solve problems, or just because I'm curious. Not every project needs to change the world - sometimes you just want to see if you can make it work.
+
+### 📚 **Approach**
+Always picking up new technologies and trying different approaches. My GitHub is my playground.
